@@ -1,4 +1,4 @@
-# Big_Mart_Sales_prediction
+# Sales_prediction
 
 ## Overview
 This project involves predicting sales using various data science techniques, including data preprocessing, feature engineering, and machine learning algorithms. The aim is to provide accurate sales forecasts based on historical data, which can help businesses make informed decisions.
